@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329197670933",
+    "project_id": "kofhotel-5cd34",
+    "storage_bucket": "kofhotel-5cd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329197670933:android:0949c3d959db58eae8341c",
+        "android_client_info": {
+          "package_name": "com.example.kof_hotels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329197670933-8ck9e0joqsp58jcgnie5c94knqo0a27t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM6vfVMDk855mcQZpE8gxWLYEb8yca98M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329197670933-8ck9e0joqsp58jcgnie5c94knqo0a27t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
